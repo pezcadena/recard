@@ -21,7 +21,7 @@ export default function Page() {
     <>
       <main className={poppins.className}>
         <header className='flex w-full justify-center border-t-[15px] border-[#416aa3] p-3 pb-0'>
-          <h1 className='text-4xl font-extrabold text-[#416aa3]'>
+          <h1 className='text-4xl font-extrabold text-[#416aa3] lg:text-7xl'>
             <span className='text-[#83322D]'>Re</span>Card
           </h1>
         </header>
